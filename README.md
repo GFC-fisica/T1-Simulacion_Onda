@@ -1,4 +1,4 @@
-# T1-Simulacion_Onda
+# Simulacion de una onda
 Repositorio del equipo 1 del GFC
 
 ## Línea de tiempo
